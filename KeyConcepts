@@ -12,7 +12,7 @@ output={0 if ∑jwjxj≤ threshold
         1 if ∑jwjxj> threshold   ................1 
 (1)output={0if ∑jwjxj≤ threshold , 1 if ∑jwjxj> threshold
 That's all there is to how a perceptron works!
-
+[[[  http://neuralnetworksanddeeplearning.com/chap1.html  ]]]
 That's the basic mathematical model. A way you can think about the perceptron is that it's a device that makes decisions
 by weighing up evidence.
 #######################################################################################################################
