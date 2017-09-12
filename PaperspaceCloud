@@ -1,0 +1,6 @@
+Paperspace SSH Tunneling::   ssh -N -f -L localhost:8889:localhost:8889 paperspace@PublicIP
+[  https://kawahara.ca/how-to-run-an-ipythonjupyter-notebook-on-a-remote-machine/  ]
+jupyter notebook --no-browser --port=8889
+
+#######################################################################################################
+#######################################################################################################
