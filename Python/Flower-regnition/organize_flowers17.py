@@ -1,3 +1,6 @@
+### This file creates separates directories for each class of images.
+### It considers first n ( here 80 ) imagesa are of one class, 2nd n images are of another class ans so on.
+
 import os
 import glob
 import datetime
@@ -10,6 +13,7 @@ input_path  = "C:\\Users\\prassha\\Desktop\\MachineLearning\\Python\\FlowerRecog
 #input_path  = "G:\\Datasets\\flowers\\17flowers\\jpg"
 output_path = "C:\\Users\\prassha\\Desktop\\MachineLearning\\Python\\FlowerRecognition\\"
 #output_path = "G:\\Datasets\\flowers\\17flowers\\"
+#output_path = "/home/paperspace/Prashanta/FlowerRecognition/flower17/"
 
 # get the class label limit
 class_limit = 17
