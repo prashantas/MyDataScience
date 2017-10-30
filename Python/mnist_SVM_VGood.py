@@ -3,6 +3,9 @@
 
 from sklearn.grid_search import GridSearchCV
 from sklearn.cross_validation import StratifiedKFold
+from sklearn.datasets import fetch_mldata
+from sklearn.svm import SVC
+import numpy as np
 
 def main():
     mnist = fetch_mldata("MNIST original")
@@ -22,7 +25,7 @@ def main():
     grid.fit(X, y)
     print("predicting")
     print("score: ", grid.score(X_test, y_test))
-    print(grid.best_estimator_)
+    print("best estimator:", grid.best_estimator_)
 
 if __name__ == "__main__":
     main()
