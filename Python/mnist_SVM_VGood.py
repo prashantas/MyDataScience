@@ -21,8 +21,8 @@ def main():
     grid = GridSearchCV(svm, parameters, cv=StratifiedKFold(y, 5), verbose=3, n_jobs=-1)
     grid.fit(X, y)
     print("predicting")
-    print "score: ", grid.score(X_test, y_test)
-    print grid.best_estimator_
+    print("score: ", grid.score(X_test, y_test))
+    print(grid.best_estimator_)
 
 if __name__ == "__main__":
     main()
