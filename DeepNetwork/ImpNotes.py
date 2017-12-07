@@ -47,4 +47,37 @@ print(sess.run(loss,{x:[1,2,3,4],y:[0,-1,-2,-3]}))
 ## Optimizer modifies each variable according to the magnitude of the derivative of loss w.r.t that variable. here we will use
 ## Gradient Descent optimizer i.e The optimizer will check the magnitude of the derivative of loss i.e the optimizer will check
 ## the change in the loss w.r t the change in the variable and if the loss is decreasing then it will keep on changing the variable 
-## in that particular direction
+## in that particular direction  # The rate at which the variable keeps chaging is the learning_rate.
+###### So the modified version of the above code is ::::
+import tensorflow as tf
+#Model parameters
+W = tf.Variable([.3],tf.float32)
+b = tf.Variable([-.3], tf.float32)
+
+#Inputs and Outputs
+x = tf.placeholder(tf.float32)
+y = tf.placeholder(tf.float32)  # Actual output which we already know
+
+linear_model = W*x+b
+
+#Loss ffunction
+squared_delta = tf.square(linear_model - y)
+loss = tf.reduce_sum(squared_delta)
+
+##optimize
+optimizer = tf.train.GradientDescentOptimizer(0.01)
+train = optimizer.minimize(loss)
+
+
+init = tf.global_variables_initializer()
+
+sess = tf.Session()
+sess.run(init)
+#print(sess.run(loss,{x:[1,2,3,4],y:[0,-1,-2,-3]}))
+for i in range(1000):
+    sess.run(train,{x:[1,2,3,4],y:[0,-1,-2,-3]})
+    
+print(sess.run([W,b]))
+## The output comes as ::  [array([-0.9999969], dtype=float32), array([ 0.99999082], dtype=float32)]
+#################################################################################################################
+#################################################################################################################
