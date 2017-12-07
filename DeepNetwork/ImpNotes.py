@@ -35,3 +35,16 @@ sess.run(init)
 print(sess.run(loss,{x:[1,2,3,4],y:[0,-1,-2,-3]}))
 ### the output is 23.66
 ###########################################################################################################################################
+### Now by changing W and b we can actually reduce the loss.
+## Now if W = -1 and b =1 then our our linear_model becomes y i.e. output of our model becomes the actual output
+## -1 x 1 + 1 = 0
+## -1 x 2 + 1 = -1
+## -1 x 3 + 1 = -2
+## -1 x 4 + 1 = -3
+## if we change W = tf.Variable([-1.0],tf.float32)
+## b = tf.Variable([1.0], tf.float32) , we will get loss as 0.0
+## If we want machine to learn W and b , we need optimizer
+## Optimizer modifies each variable according to the magnitude of the derivative of loss w.r.t that variable. here we will use
+## Gradient Descent optimizer i.e The optimizer will check the magnitude of the derivative of loss i.e the optimizer will check
+## the change in the loss w.r t the change in the variable and if the loss is decreasing then it will keep on changing the variable 
+## in that particular direction
