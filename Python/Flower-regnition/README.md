@@ -1,4 +1,5 @@
 # Flower Species Recognition System #
+Flower dataset is available at  http://www.robots.ox.ac.uk/~vgg/data/flowers/17/index.html
 
 This repo contains the code for conference paper titled **Flower Species Recognition System using Convolutional Neural Networks and Transfer Learning**, by I.Gogul and V.Sathiesh Kumar, Proceedings of ICSCN-2017 conference, IEEE Xplore Digital Library (Presented, to be uploaded).
 
