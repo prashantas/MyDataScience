@@ -118,6 +118,6 @@ if args.image_url is not None:
 """
 Main
 In order to have this command line usage:
-1. python classify.py --image African_Bush_Elephant.jpg
-2. python classify.py --image_url http://i.imgur.com/wpxMwsR.jpg
+1. python Resnet50.py --image African_Bush_Elephant.jpg
+2. python Resnet50.py --image_url http://i.imgur.com/wpxMwsR.jpg
 """
