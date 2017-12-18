@@ -9,6 +9,7 @@ BOTH above are very good....must follow...
 Fine Tuning::  
 
 https://flyyufelix.github.io/2016/10/03/fine-tuning-in-keras-part1.html
+https://flyyufelix.github.io/2016/10/08/fine-tuning-in-keras-part2.html
 [ Authors Github ::  https://github.com/flyyufelix  ]
 
 
