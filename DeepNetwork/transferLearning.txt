@@ -5,3 +5,6 @@ https://deeplearningsandbox.com/how-to-use-transfer-learning-and-fine-tuning-in-
 BOTH above are very good....must follow...
 ###############################################################################################################################
 ###############################################################################################################################
+
+Fine Tuning::  
+https://flyyufelix.github.io/2016/10/03/fine-tuning-in-keras-part1.html
