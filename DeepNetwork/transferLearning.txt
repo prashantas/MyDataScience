@@ -22,4 +22,8 @@ https://cambridgespark.com/content/tutorials/neural-networks-tuning-techniques/i
 
 ######################################################################################################################
 
+TO understand ImgeDataGenerator see https://www.youtube.com/watch?v=OUMDUq5OJLg&t=3297s  from 25 mins
+
+#########################################################################################################################
+
 
