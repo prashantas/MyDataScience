@@ -1,3 +1,6 @@
+#TO understand ImgeDataGenerator see https://www.youtube.com/watch?v=OUMDUq5OJLg&t=3297s  from 25 mins
+
+#########################################################################################################################
 ####  https://www.youtube.com/watch?v=yX8KuPZCAMo           # Very Good Link from Edureka for tensorflow basics Really Good
 
 # A placeholder is nothing but a promise to provide the value later
