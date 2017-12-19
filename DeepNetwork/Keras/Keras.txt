@@ -3,3 +3,5 @@ Very Good**Must follow ::
 https://medium.com/@pushkarmandot/build-your-first-deep-learning-neural-network-model-using-keras-in-python-a90b5864116d
 
 #################################################################################################################################
+Convolutional Neural Network ( Good Tutorial ) : http://neuralnetworksanddeeplearning.com/chap6.html
+#############################################################################################################################
