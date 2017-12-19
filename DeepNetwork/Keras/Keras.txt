@@ -5,3 +5,6 @@ https://medium.com/@pushkarmandot/build-your-first-deep-learning-neural-network-
 #################################################################################################################################
 Convolutional Neural Network ( Good Tutorial ) : http://neuralnetworksanddeeplearning.com/chap6.html
 #############################################################################################################################
+TO understand ImgeDataGenerator see https://www.youtube.com/watch?v=OUMDUq5OJLg&t=3297s  from 25 mins
+
+#########################################################################################################################
