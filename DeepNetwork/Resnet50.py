@@ -21,6 +21,9 @@ import requests
 from io import BytesIO
 from keras.applications.resnet50 import ResNet50, preprocess_input, decode_predictions
 model = ResNet50(weights='imagenet')
+## model = VGG16(weights='imagenet', include_top=False)
+## if we use VGG16 then include_top=False means not to include the Fully Connected layer. it will include only
+## Convolution layer
 
 def predict(model, img, target_size, top_n=3):
     """Run model prediction on image
