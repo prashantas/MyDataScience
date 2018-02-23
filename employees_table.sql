@@ -10,7 +10,7 @@ SELECT * FROM employees;
 /* LOAD DATA LOCAL INFILE 'C:/Translink/region.csv' INTO TABLE region FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 ROWS; */
 
 /*
-C:\Program Files\MySQL\MySQL Server 5.7\bin>mysqldump -u root -pPs268848@  prashanta > C:/sql/backup-file.sql
+C:\Program Files\MySQL\MySQL Server 5.7\bin>mysqldump -u root -pPassword  prashanta > C:/sql/backup-file.sql
 mysqldump: [Warning] Using a password on the command line interface can be insecure.
 
 **********************************************************************************************************************************************/
