@@ -1,5 +1,6 @@
 
 CIFAR10 dataset-image classification :: https://www.learnopencv.com/image-classification-using-convolutional-neural-networks-in-keras/
+                                      : https://cambridgespark.com/content/tutorials/convolutional-neural-networks-with-keras/index.html
 ####################################################################################################################
 ## Model by Keras
 Very Good**Must follow ::
