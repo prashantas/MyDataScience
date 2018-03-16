@@ -2,6 +2,7 @@
 CIFAR10 dataset-image classification :: https://www.learnopencv.com/image-classification-using-convolutional-neural-networks-in-keras/
                                       : https://cambridgespark.com/content/tutorials/convolutional-neural-networks-with-keras/index.html
                                       https://github.com/09rohanchopra/cifar10
+Santa/Not Santa classifier : https://www.pyimagesearch.com/2017/12/11/image-classification-with-keras-and-deep-learning/
 ####################################################################################################################
 ## Model by Keras
 Very Good**Must follow ::
