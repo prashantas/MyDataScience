@@ -1,3 +1,6 @@
+
+Transfr learning( very very good to understand ) :: https://www.youtube.com/watch?v=L7qjQu2ry2Q
+########################################################################################################################
 Convolutional Neural Network ( Good Tutorial ) : http://neuralnetworksanddeeplearning.com/chap6.html
 #############################################################################################################################
 https://deeplearningsandbox.com/how-to-build-an-image-recognition-system-using-keras-and-tensorflow-for-a-1000-everyday-object-559856e04699
