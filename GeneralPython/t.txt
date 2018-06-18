@@ -1,9 +1,12 @@
 General Python...
+
+Multiple Values with Each Key in a Dictionary::  https://www.safaribooksonline.com/library/view/python-cookbook/0596001673/ch01s06.html
+
 Sorting :::  https://docs.python.org/3/howto/sorting.html
               https://www.pythoncentral.io/how-to-sort-a-list-tuple-or-object-with-sorted-in-python/              ******
               https://stackoverflow.com/questions/47625920/overriding-cmp-python-not-working
               
-https://codeburst.io/python-basics-11-word-count-filter-out-punctuation-dictionary-manipulation-and-sorting-lists-3f6c55420855
+WordFrequencyCount:: https://codeburst.io/python-basics-11-word-count-filter-out-punctuation-dictionary-manipulation-and-sorting-lists-3f6c55420855
 
 Python Generators::
 https://www.dataquest.io/blog/python-generators-tutorial/
