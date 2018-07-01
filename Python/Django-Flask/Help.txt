@@ -1,1 +1,7 @@
 https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-16-04
+
+$$$  To create a virtualenv in windows::
+run ::   python3.6 -m virtualenv myvenv
+$$ To activate myvenv in Windows, run : myvenv\Scripts\activate
+
+
