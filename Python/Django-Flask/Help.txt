@@ -2,6 +2,9 @@ https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postg
 
 REST API Integration in Python: https://realpython.com/api-integration-in-python/
 
+ML with Django :  https://www.codementor.io/jadianes/get-started-with-django-building-recommendation-review-app-du107yb1a
+                  https://github.com/jadianes/winerama-recommender-tutorial/tree/master/winerama
+
 $$$  To create a virtualenv in windows, run ::   python3.6 -m virtualenv myvenv
       In linux, run ::      virtualenv myvenv                     
 $$$ To activate myvenv in Windows, run : myvenv\Scripts\activate
