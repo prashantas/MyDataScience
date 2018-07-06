@@ -1,4 +1,6 @@
+Python Code Review:: https://dbader.org/blog/live-python-code-review
 
+#######################################################################################################################################
 CLI with python : https://dbader.org/blog/python-commandline-tools-with-click
                   https://dbader.org/blog/mastering-click-advanced-python-command-line-apps
 
