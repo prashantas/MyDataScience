@@ -1,3 +1,9 @@
+
+CLI with python : https://dbader.org/blog/python-commandline-tools-with-click
+                  https://dbader.org/blog/mastering-click-advanced-python-command-line-apps
+
+########################################################################################################################################
+
 RESTfull API with flask(V good) ::https://auth0.com/blog/developing-restful-apis-with-python-and-flask/
 $$To create a module on a Python application, we just need to create a folder and add an empty file called __init__.py to it.
 
