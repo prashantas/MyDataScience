@@ -1,3 +1,7 @@
+
+100 days of Python::  http://blog.tecladocode.com/100daysofpython/
+
+#####################################################################################################################################
 Python Code Review:: https://dbader.org/blog/live-python-code-review
 Flake8 tool for linting( quality checking tool ): https://medium.com/python-pandemonium/what-is-flake8-and-why-we-should-use-it-b89bd78073f2
 
