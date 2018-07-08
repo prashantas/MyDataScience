@@ -1,5 +1,7 @@
 General Python...
 
+100 days of Python::  http://blog.tecladocode.com/100daysofpython/
+
 Multiple Values with Each Key in a Dictionary::  https://www.safaribooksonline.com/library/view/python-cookbook/0596001673/ch01s06.html
 
 Sorting :::  https://docs.python.org/3/howto/sorting.html
