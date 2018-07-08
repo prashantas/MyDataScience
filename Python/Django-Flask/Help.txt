@@ -8,6 +8,8 @@ CLI with python : https://dbader.org/blog/python-commandline-tools-with-click
 ########################################################################################################################################
 Flask Course Udemy git repo :: https://github.com/schoolofcode-me/rest-api-sections
 
+JWT configuration, advanced:: http://blog.tecladocode.com/learn-python-advanced-configuration-of-flask-jwt/
+
 RESTfull API with flask(V good) ::https://auth0.com/blog/developing-restful-apis-with-python-and-flask/
 $$To create a module on a Python application, we just need to create a folder and add an empty file called __init__.py to it.
 
