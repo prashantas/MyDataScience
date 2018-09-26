@@ -1,6 +1,7 @@
 General Python...
 https://www.codementor.io/sheena/essential-python-interview-questions-du107ozr6
 100 days of Python::  http://blog.tecladocode.com/100daysofpython/
+https://realpython.com/primer-on-python-decorators/   [ very good..also talks abt @property, @classmethod etc...]
 
 Multiple Values with Each Key in a Dictionary::  https://www.safaribooksonline.com/library/view/python-cookbook/0596001673/ch01s06.html
 
