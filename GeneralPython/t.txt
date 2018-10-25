@@ -13,6 +13,13 @@ WordFrequencyCount:: https://codeburst.io/python-basics-11-word-count-filter-out
 
 Python Generators::
 https://www.dataquest.io/blog/python-generators-tutorial/
+################################################################################################
+################################################################################################
+CELERY:::
+celery beat: https://breadcrumbscollector.tech/what-is-celery-beat-and-how-to-use-it/
+
+part1::https://medium.com/@channeng/setting-up-a-task-scheduler-application-with-celery-flask-part-1-8652265050dc
+part2::https://medium.com/@channeng/celery-scheduler-part-2-managing-celery-with-supervisor-2a0c6e7f7a6e
 
 ####################################################################################################################
 https://stackoverflow.com/questions/11315010/what-do-and-before-a-variable-name-mean-in-a-function-signature  $$$$$$$$$$$$$$
