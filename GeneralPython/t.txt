@@ -1,4 +1,5 @@
 General Python...
+swagger and rest API: https://realpython.com/flask-connexion-rest-api/
 https://www.codementor.io/sheena/essential-python-interview-questions-du107ozr6
 100 days of Python::  http://blog.tecladocode.com/100daysofpython/
 https://realpython.com/primer-on-python-decorators/   [ very good..also talks abt @property, @classmethod etc...]
