@@ -1,4 +1,7 @@
 General Python...
+REST with flask:: https://blog.miguelgrinberg.com/post/restful-authentication-with-flask
+REST with flask:: https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask
+
 swagger and rest API: https://realpython.com/flask-connexion-rest-api/
 https://www.codementor.io/sheena/essential-python-interview-questions-du107ozr6
 100 days of Python::  http://blog.tecladocode.com/100daysofpython/
