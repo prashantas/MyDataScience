@@ -1,4 +1,5 @@
 General Python...
+Very good Flask :: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ii-templates
 REST with flask:: https://blog.miguelgrinberg.com/post/restful-authentication-with-flask
 REST with flask:: https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask
 
