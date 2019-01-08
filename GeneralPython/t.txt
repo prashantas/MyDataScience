@@ -1,3 +1,5 @@
+Hijaacking celery root logger : https://www.distributedpython.com/2018/08/28/celery-logging/
+
 General Python...
 Flask Rest-Plus(v good): https://medium.com/ki-labs-engineering/designing-well-structured-rest-apis-with-flask-restplus-part-1-7e96f2da8850
 Very good Flask :: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ii-templates
