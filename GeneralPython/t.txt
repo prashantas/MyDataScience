@@ -6,6 +6,8 @@ Very good Flask :: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-
 REST with flask:: https://blog.miguelgrinberg.com/post/restful-authentication-with-flask
 REST with flask:: https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask
 Securing REST API: http://polyglot.ninja/securing-rest-apis-basic-http-authentication-python-flask/
+FLASK_JWT: https://github.com/oleg-agapov/flask-jwt-auth/blob/master/step_3/models.py
+           https://codeburst.io/jwt-authorization-in-flask-c63c1acf4eeb
 
 swagger and rest API: https://realpython.com/flask-connexion-rest-api/
 https://www.codementor.io/sheena/essential-python-interview-questions-du107ozr6
