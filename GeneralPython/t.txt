@@ -1,3 +1,6 @@
+
+## grep -rn . -e 'string'    # recursively search the 'string' inside the directory
+
 Hijaacking celery root logger : https://www.distributedpython.com/2018/08/28/celery-logging/
 
 General Python...
