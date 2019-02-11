@@ -17,3 +17,14 @@ migrate executes those SQL commands in database file.So after executing migrate 
 tables of your installed apps are created in your database file.
 ##########################################################################################
 #########################################################################################
+#################### django middleware ####################################################
+## https://www.agiliq.com/blog/2015/07/understanding-django-middlewares/
+## https://docs.djangoproject.com/en/1.8/topics/http/middleware/
+Middlewares are hooks to modify Django request or response object.
+You can use middleware if you want to modify the request i.e HttpRequest object which is sent to the view. Or you might 
+want to modify the HttpResponse object returned from the view. Both these can be achieved by using a middleware.
+
+You might want to perform an operation before the view executes. In such case you would use a middleware.
+Django provides some default middleware. eg: AuthenticationMiddleware
+
+
