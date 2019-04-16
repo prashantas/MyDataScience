@@ -1,3 +1,4 @@
+django querySet ( very good) :: https://blog.etianen.com/blog/2013/06/08/django-querysets/
 mysql -h localhost -u root -p
 ## very good(mutable, immutable ) :::: https://medium.com/datadriveninvestor/mutable-and-immutable-python-2093deeac8d9
 ####### C/C++ with Python : https://medium.com/@matthiasbitzer94/how-to-extend-python-with-c-c-code-aa205417b2aa
