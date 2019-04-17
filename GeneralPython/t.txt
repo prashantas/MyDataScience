@@ -1,3 +1,4 @@
+calling web API's and err handling(v good):: https://www.digitalocean.com/community/tutorials/how-to-use-web-apis-in-python-3
 django querySet ( very good) :: https://blog.etianen.com/blog/2013/06/08/django-querysets/
 mysql -h localhost -u root -p
 ## very good(mutable, immutable ) :::: https://medium.com/datadriveninvestor/mutable-and-immutable-python-2093deeac8d9
